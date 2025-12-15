@@ -59,7 +59,8 @@ Based on similar users’ ratings, the system predicts and recommends items.
 In this execution, due to limited and sparse sample data, explicit recommendation results may not be displayed. However, the successful creation of the model confirms the correct implementation of the recommendation logic.
 
 *OUTPUT*:
-![Uploading Screenshot 2025-12-15 202814.png…]()
+<img width="1381" height="137" alt="image" src="https://github.com/user-attachments/assets/645eb136-a62a-49d5-973a-4976bc8f7e7e" />
+
 
 
 The output demonstrates that the AI-based recommendation system using Apache Mahout is functioning correctly. All required libraries were integrated successfully, data was processed accurately, and the collaborative filtering model was built as intended. This fulfills the internship task requirements by showcasing a working recommendation engine with sample data and proper library usage
